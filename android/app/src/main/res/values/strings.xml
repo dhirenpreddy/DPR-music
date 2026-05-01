@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">DPR Music</string>
+    <string name="title_activity_main">DPR Music</string>
+    <string name="package_name">com.dprmusic.app</string>
+    <string name="custom_url_scheme">com.dprmusic.app</string>
+</resources>

@@ -77,7 +77,7 @@ export default function Sidebar({ setView, activeView }: SidebarProps) {
               onClick={() => handleNav('melodies')} 
               className={`flex items-center gap-3 p-2 text-xs transition-all rounded-md ${activeView === 'melodies' ? 'bg-zinc-800 text-white font-bold' : 'text-zinc-400 hover:text-white'}`}
             >
-              <Music2 size={16} /> Kannada Melodies
+              <Music2 size={16} /> Telugu Melodies
             </button>
             <button 
               onClick={() => handleNav('hindi')} 
